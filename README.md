@@ -101,3 +101,17 @@ The dataset contains fictional recruitment records created specifically for this
 - Recruitment MIS Reporting
 - Business Analysis
 - Business Insights & Recommendations
+
+## Dashboard Preview
+
+### Recruitment Overview
+![Recruitment Overview](Overview.png)
+
+### Recruiter Performance
+![Recruiter Performance](Performance.png)
+
+### Requirement Analytics
+![Requirement Analytics](Analytics.png)
+
+### Recruitment Insights
+![Recruitment Insights](Insights.png)
